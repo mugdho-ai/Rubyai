@@ -1,0 +1,2 @@
+# Rubyai
+simple ai
